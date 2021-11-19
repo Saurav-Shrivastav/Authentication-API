@@ -4,6 +4,8 @@
 - Django
 - Djangorestframework
 
+The API and project is fully tested!
+
 ### Current endpoints:
 1. `/admin`: The admin view, a custom UI to view the tables and data
 2. `/api/users/create/`: Allows the client to Register a user, with name, email and password
