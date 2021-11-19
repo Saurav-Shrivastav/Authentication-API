@@ -9,6 +9,9 @@ django-environ = "*"
 djangorestframework = "*"
 markdown = "*"
 django-filter = "*"
+gunicorn = "*"
+dj-database-url = "*"
+whitenoise = "*"
 
 [dev-packages]
 
